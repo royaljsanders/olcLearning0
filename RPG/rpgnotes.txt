@@ -1,0 +1,20 @@
+
+mainrpg.c:{
+    Code it Yourself platformer. (console engine)
+    Code it Yourself RPG. OOP    (console engine)
+    -> spin off into own project folder?
+}
+
+new project folder:{
+    Code it Yourself 3D Game engine (console engine)
+    https://www.youtube.com/watch?v=kRH6oJLFYxY
+    olcPixelGameEngine
+}
+
+
+
+It's going to be made of tilemaps! Think Original Zelda.
+Some tiles will be solid, that is player can't walk in.
+
+OnInteraction(Dyn, Dyn)
+an object
